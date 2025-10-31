@@ -34,6 +34,12 @@ AquesTalk の DLL を追加することで、AquesTalk による音声合成も�
 
 ---
 
+### 💡 画面例（ScenarioVoice Lite）
+メイン画面<BR>
+<img width="663" height="494" alt="image" src="https://github.com/user-attachments/assets/72fd98f0-6d01-4dc9-9c5d-30c37df9404b" />
+
+---
+
 ## ⚙️ AquesTalk の利用について
 
 - AquesTalk に関する DLL は本リポジトリには含まれていません。  
