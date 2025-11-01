@@ -74,7 +74,7 @@
 ## 🧩 技術スタック
 - Windows / .NET Framework（4.7.2以降 で動作想定）
 - C#で開発したWindowsアプリケーション
-- 利用ライブラリ：NLog/NAudio/Newsonsoft.Json
+- 利用ライブラリ：NLog/NAudio/Newtonsoft.Json
 
 ---
 
