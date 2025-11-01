@@ -2,7 +2,7 @@
 
 **ScenarioVoice Lite** は、  
 日本語音声合成エンジン「VOICEVOX」と「AquesTalk」に対応した  
-テキスト読み上げ・動画編集連携ツールです。
+テキスト読み上げ・動画編集ソフト連携ツールです。
 
 初期状態では VOICEVOX のみ利用可能ですが、  
 AquesTalk の DLL を追加することで、AquesTalk による音声合成も行えます。
@@ -11,10 +11,11 @@ AquesTalk の DLL を追加することで、AquesTalk による音声合成も�
 
 ## 🚀 主な機能
 
-- **テキストから音声ファイルを生成**
+- **テキスト文章から音声ファイルを生成**
   - VOICEVOX または AquesTalk に対応  
   - 各種パラメータ（話速・音高・音量・抑揚など）の調整が可能  
-  - アクセントの編集にも対応  
+  - アクセントの編集にも対応
+  - エコー処理にも対応
 
 - **プリセット機能**
   - よく使う音声設定を保存・呼び出し可能  
@@ -34,7 +35,17 @@ AquesTalk の DLL を追加することで、AquesTalk による音声合成も�
 
 ---
 
-### 💡 画面例（ScenarioVoice Lite）
+## 💡 使い方
+1. VOICEVOX起動後、本アプリを起動します。  
+2. 字幕テキストを入力します。  
+3. 音声を選択します。  
+4. 各種パラメータ・アクセントを編集します。
+5. 音声合成をクリックします。
+6. 再生ボタンを押下すると音声を再生します。
+
+---
+
+## 📸 スクリーンショット
 メイン画面<BR>
 <img width="663" height="494" alt="image" src="https://github.com/user-attachments/assets/72fd98f0-6d01-4dc9-9c5d-30c37df9404b" />
 
@@ -58,6 +69,13 @@ AquesTalk の DLL を追加することで、AquesTalk による音声合成も�
 
 - [VOICEVOX 公式サイト](https://voicevox.hiroshiba.jp/)  
 - [利用規約](https://voicevox.hiroshiba.jp/term/)
+
+---
+
+## 🧩 技術スタック
+- Windows / .NET Framework（4.7.2以降 で動作想定）
+- C#で開発したWindowsアプリケーション
+- 利用ライブラリ：NLog/NAudio/Newsonsoft.Json
 
 ---
 
