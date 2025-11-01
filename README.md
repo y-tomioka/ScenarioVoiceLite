@@ -7,6 +7,9 @@
 初期状態では VOICEVOX のみ利用可能ですが、  
 AquesTalk の DLL を追加することで、AquesTalk による音声合成も行えます。
 
+※ScenarioVoice Liteは、ScenarioVoiceから一括合成機能を削りシンプルな音声合成・動画編集連携に特化しています。  
+　よりシンプルに音声合成したい方、TTSの仕組みを学んでみたい方向けに作成しました。
+
 ---
 
 ## 🚀 主な機能
