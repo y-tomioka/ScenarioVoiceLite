@@ -24,6 +24,9 @@
     - 利用には別途「かんしくん」が必要です  
   - [ゆっくりMovieMaker4（YMM4）](https://manjubox.net/ymm4/) とも連携可能  
 
+- **VOICEVOX互換ソフトをサポート**
+  - VOICEVOX以外にもVOICEVOX互換のAPIをサポートしているソフトを利用可能です。  
+
 ---
 
 ## 🔧 動作環境
