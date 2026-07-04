@@ -87,6 +87,9 @@
 本ソフトウェアは **MIT License** で公開しています。  
 詳細は [LICENSE](./LICENSE) ファイルをご確認ください。
 
+## その他の開発アプリ
+* [RecollectViewer](https://www.yasui-kamo.com/labo/recollectviewer/) - 主要3大AI（ChatGPT/Gemini/Claude）の対話履歴を横断検索できるローカルビューアー
+
 ---
 
 ## 🌐 詳細・更新情報
