@@ -97,3 +97,4 @@
 
 ## その他の開発アプリ
 * [RecollectViewer](https://www.yasui-kamo.com/labo/recollectviewer/) - 主要3大AI（ChatGPT/Gemini/Claude）の対話履歴を横断検索できるローカルビューアー
+* [SoloCoastNavi](https://www.yasui-kamo.com/labo/solocoastnavi/) - おひとり様 NISA でコーストFIRE。積立から老後の取り崩し・年金まで、一本のグラフで見えるライフプランシミュレータ
